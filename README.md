@@ -11,8 +11,7 @@ class Profile(ReadMe):
         }
         self.skill = {
             "Skill 1": "Coding",
-            "Skill 2": "Skid :)",
-            "Skill 3": "Eating your pizza and eating my pizza :)"
+            "Skill 2": "IDK",
         }
         self.country = "Vietnam"
         self.credit = "Thanks dropout1337 and Brutal32 for good readme profile <3"
