@@ -18,7 +18,6 @@ class Profile(ReadMe):
         }
         self.country = "Vietnam"
 ```
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 <p align="right">
 <img src="https://badges.pufler.dev/visits/nguyenkhactrunghieu/nguyenkhactrunghieu?color=black&logo=github" />
 </p>
